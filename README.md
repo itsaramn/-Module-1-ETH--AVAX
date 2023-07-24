@@ -1,11 +1,11 @@
 # -Module-1-ETH--AVAX(Functions and Errors)
 This is basically a solidity program that consists of a contract that displays the basic fuction of the require(),revert()and assert() functions.
 
-##Code Description
+## Code Description
 This contract on solidity shows an example of the three major error handling functions in solidity that are require(), revert(), and assert() functions.The program is based in a situation where we have to check the score of the user. 
 If the score of the user i above 10, then the requested transaction of be done to their account, if not then the error will be handled using the functions.And it will handle divide by zero error.
 
-##Lets Get Started
+## Lets Get Started
 To run the program,you can use Remix platform, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar.
